@@ -1,0 +1,8 @@
+node_modules/
+out/
+.env
+package.json
+package-lock.json
+photos/
+reels/
+.DS_Store
